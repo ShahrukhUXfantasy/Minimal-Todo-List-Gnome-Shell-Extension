@@ -1,0 +1,8 @@
+{
+  "uuid": "mini-tasks@muhammadshahrukh.local",
+  "name": "Mini Tasks",
+  "description": "A minimal daily task list that lives in the top panel. Add tasks with Enter, check them off, and remove them with a small delete button — same interaction style as Clipboard Indicator.",
+  "shell-version": ["45", "46", "47", "48"],
+  "url": "",
+  "version": 1
+}
